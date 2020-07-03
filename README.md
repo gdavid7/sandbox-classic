@@ -1,8 +1,10 @@
 
 # sandbox
-> Program for automated typing.
+> Program for undetectable, automated typing.
 
 Automatically types text in [Nitro Type](https://www.nitrotype.com). Using a simple graphical interface, you are able to specify speed, accuracy, amount of races and more!
+
+This program is easily the most undetectable bot in Nitro Type due to all of the random variables.
 
 ![](header.png)
 

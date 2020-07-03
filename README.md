@@ -22,7 +22,8 @@ PySimpleGUI
 Windows:
 
 ```sh
-Just download the sandbox.exe file and open it up!
+Step 1: Download the Mozilla Firefox Web Browser: https://www.mozilla.org/en-US/
+Step 2: Run sandbox.exe from the github repository.
 ```
 
 ## Usage example

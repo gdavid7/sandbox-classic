@@ -6,6 +6,17 @@ Automatically types text in [Nitro Type](https://www.nitrotype.com). Using a sim
 
 ![](header.png)
 
+## Resources Used
+Programming Language:
+
+```python```
+
+Libraries:
+```
+selenium
+BeautifulSoup
+PySimpleGUI
+```
 ## Installation
 
 Windows:

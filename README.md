@@ -36,7 +36,7 @@ Step 2: Download Sandbox and run the program.
 
 When you open the program up, a graphical interface will appear.
 
-![Image of graphical](https://github.com/gdavid7/sandbox/blob/master/pictures/Screenshot.png)
+![Image of graphical](https://github.com/Limitized/sandbox/blob/master/pictures/Screenshot.png)
 
 Username: Your account username
 
